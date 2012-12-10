@@ -8,8 +8,8 @@ problem using this script.
 
 You only need to edit two files:
 
-  gvfm_plot.gp
-	gvfm_frame.gp
+- gvfm_plot.gp
+- gvfm_frame.gp
 
 For making the video, you have two options:
 
